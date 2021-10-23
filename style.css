@@ -1,0 +1,88 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(to left,hsl(195, 43%, 64%), cyan);
+    padding: 8px 25px;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 700;
+}  
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 20px 25px;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 700;
+    position: relative;
+    left: 0;
+    top: 30px;
+}  
+.dream {
+    font-size: 40px;
+}
+.child{
+    font-size: 35px;
+}
+.item{
+    font-size: 35px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.single-expreience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+    text-align: center;
+}
+.man{
+    background-color: #f00e65;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    padding-left: 30px;
+}
+.png{
+    background-color: orange;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    padding-left: 30px;
+}
+#stac{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,rgb(209, 119, 109), tomato);
+    border-image-slice: 1;
+}
+#stac2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue, cyan);
+    border-image-slice: 1;
+}
